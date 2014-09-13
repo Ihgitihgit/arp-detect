@@ -10,3 +10,12 @@ body {
 	color: #333333;
 	font-family:  'Lato';
 }
+
+h1 {
+	font-size:  35px;
+}
+
+h2 {
+	font-size:  25px;
+	font-weight: 100;
+}
